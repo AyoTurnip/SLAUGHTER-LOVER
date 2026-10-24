@@ -37,6 +37,11 @@ export default function handler(req, res) {
     "BOOB",
     "PENIS",
     "DIDDY",
+    "RNGDLE",
+    "LOWTAPERFADE",
+    "HENTAI",
+    "PORN",
+    "TRES",
   ];
 
   const word = words[Math.floor(Math.random() * words.length)];
