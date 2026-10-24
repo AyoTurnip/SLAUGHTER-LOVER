@@ -23,7 +23,20 @@ export default function handler(req, res) {
     "SLUR",
     "MAN",
     "WOMAN",
-    "MINATO AQUA",
+    "AQUA",
+    "TOWA",
+    "GEOMETRY DASH",
+    "OBAMA",
+    "CUBE",
+    "SHIP",
+    "BALL",
+    "UFO",
+    "WAVE",
+    "SPIDER",
+    "SWING",
+    "BOOB",
+    "PENIS",
+    "DIDDY",
   ];
 
   const word = words[Math.floor(Math.random() * words.length)];
