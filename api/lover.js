@@ -1,7 +1,7 @@
 export default function handler(req, res) {
   const words = [
     "N WORD",
-    "SLAUGHER",
+    "SLAUGHTER",
     "DRONGO",
     "ARC",
     "TURNIP",
